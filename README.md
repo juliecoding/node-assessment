@@ -72,7 +72,7 @@ Be sure to follow the instructions for each problem closely.
 
 Example:
 ```javascript
-module.exports ={
+module.exports = {
   methodName: function(/*Parameters here if input is needed*/) {
     // Find/Add/Update/Delete something
     return somethingArray; // Or null if it is required.
